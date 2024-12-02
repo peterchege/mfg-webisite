@@ -1,0 +1,3 @@
+
+  import { precacheAndRoute } from 'workbox-precaching/precacheAndRoute';
+  precacheAndRoute([{"revision":"46514da6e77a81c627470eb6dccbed43","url":"pwabuilder-sw.js"}]);

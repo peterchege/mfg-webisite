@@ -1,0 +1,16 @@
+{
+  "name": "Momentum Financial Group LLC",
+  "short_name": "Momentum Financial Group",
+  "description": "Our core business is the issuance of over the counter (OTC) cash backed loan guarantees for businesses in need of debt capital. MFG currently has over $15 billion Products Under Management (PUM) with over €8.0B cash & cash equivalents held in trust specific for our financial loan guarantee program.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://cdn.prod.website-files.com/66e937193b19094bf931bf16/66e96e99a92b08a7f40fee1b_Webclip.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
